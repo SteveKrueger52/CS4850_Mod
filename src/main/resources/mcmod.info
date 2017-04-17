@@ -1,0 +1,15 @@
+[
+{
+  "modid": "cs4850_mpb",
+  "name": "Mr Poopy Butthole",
+  "description": "Class Project for CS4850: Building Game Engines",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Steve Krueger"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
